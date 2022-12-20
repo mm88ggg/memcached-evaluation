@@ -1,0 +1,35 @@
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Window: 0
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Rate: Request: 654723.55 rps Response: 654710.18 rps Connect: 0.00 cps
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Hit-rate: 26.24 %
+2022-12-12T06:40:50.588+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Window: 1
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Rate: Request: 645994.57 rps Response: 645994.59 rps Connect: 0.00 cps
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Hit-rate: 37.22 %
+2022-12-12T06:41:50.589+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Window: 2
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Rate: Request: 649589.54 rps Response: 649589.56 rps Connect: 0.00 cps
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Hit-rate: 39.66 %
+2022-12-12T06:42:50.589+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Window: 3
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Rate: Request: 647679.42 rps Response: 647679.39 rps Connect: 0.00 cps
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Hit-rate: 41.72 %
+2022-12-12T06:43:50.590+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Window: 4
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Rate: Request: 642580.94 rps Response: 642580.97 rps Connect: 0.00 cps
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Hit-rate: 40.18 %
+2022-12-12T06:44:50.591+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0

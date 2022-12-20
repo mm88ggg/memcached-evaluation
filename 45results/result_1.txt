@@ -1,0 +1,42 @@
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Window: 0
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Rate: Request: 525828.30 rps Response: 525814.91 rps Connect: 0.00 cps
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Hit-rate: 23.97 %
+2022-12-12T06:13:20.794+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Window: 1
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Rate: Request: 664014.18 rps Response: 664014.22 rps Connect: 0.00 cps
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Hit-rate: 35.55 %
+2022-12-12T06:14:20.794+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Window: 2
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Rate: Request: 668118.91 rps Response: 668118.89 rps Connect: 0.00 cps
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Hit-rate: 36.97 %
+2022-12-12T06:15:20.795+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Window: 3
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Rate: Request: 668942.23 rps Response: 668942.25 rps Connect: 0.00 cps
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Hit-rate: 35.73 %
+2022-12-12T06:16:20.799+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Window: 4
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Rate: Request: 660531.23 rps Response: 660531.24 rps Connect: 0.00 cps
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Hit-rate: 33.02 %
+2022-12-12T06:17:20.799+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] -----
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Window: 5
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Connections: Attempts: 0 Opened: 0 Errors: 0 Timeouts: 0 Open: 0
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Rate: Request: 664887.45 rps Response: 664887.45 rps Connect: 0.00 cps
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Success: Request: 100.00 % Response: 100.00 % Connect: 100.00 %
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Hit-rate: 39.21 %
+2022-12-12T06:18:20.790+00:00 INFO [rpc_perf::admin] Response Latency (us): p25: 0 p50: 0 p75: 0 p90: 0 p99: 0 p999: 0 p9999: 0
