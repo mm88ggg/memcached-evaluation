@@ -66,5 +66,3 @@ tensorboard --logdir=path/to/result
 ```
 
 Finally, you can open it with your browser.
-
-# The structure of 
